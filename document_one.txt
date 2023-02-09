@@ -3,3 +3,5 @@ estoy aprendiendo git y github
 estas son algunos comando que recuerdo:
 
 git init
+
+guarde este documento junto al two
