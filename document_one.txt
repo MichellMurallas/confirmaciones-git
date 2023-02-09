@@ -5,3 +5,6 @@ estas son algunos comando que recuerdo:
 git init
 
 guarde este documento junto al two
+
+
+despues del segundo commit
