@@ -1,4 +1,0 @@
-
-agregando texto para el commit y add unido
-
-git ad
