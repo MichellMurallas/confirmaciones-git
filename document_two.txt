@@ -1,8 +1,0 @@
-
-Guarde este document con un commit
-
-segundo commit
-
-tercer commit
-
-git ad
