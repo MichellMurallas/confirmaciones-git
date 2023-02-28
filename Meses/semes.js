@@ -1,5 +1,5 @@
 
-let firstSemester = [
+ export const firstSemester = [
   {
     enero:      "primer mes del año",
     febrero:    "segundo mes del año",
