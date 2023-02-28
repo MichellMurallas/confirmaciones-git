@@ -1,5 +1,5 @@
 
-const dia = [
+export const dia = [
   {
     madrugada: "1 to 5",
     mañana:   "6 to 11",

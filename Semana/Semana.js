@@ -1,5 +1,5 @@
 
-const semana = [
+export const semana = [
   {
     domingo:   "Primer día de la semana",
     lunes:     "Segundo día de la semana",
