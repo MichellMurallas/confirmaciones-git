@@ -5,5 +5,16 @@ import { dia } from "../Dia/Dia";
 // No tenia musica - no tenia nada. y la gente no bailaba, no baila, no bailaba.
 
 
-console.log(dia)
-// const tiredDg = 
+
+const tiredDg = () => {
+
+  let history = true;
+
+  if(history == true){
+    "Fue horrible"
+  }else{
+    "nadie sabe"
+  }
+}
+
+tiredDg();
