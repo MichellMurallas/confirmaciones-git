@@ -15,6 +15,17 @@ const tiredDg = () => {
   }else{
     "nadie sabe"
   }
+question
+
+  // what is this?
+  
+  if(his == true ){
+    "this is a song"
+  }else{
+    "it is a tv show"
+  }
+
+dev
 }
 
 tiredDg();
