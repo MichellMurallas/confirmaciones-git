@@ -15,6 +15,7 @@ const tiredDg = () => {
   }else{
     "nadie sabe"
   }
+question
 
   // what is this?
   
@@ -23,6 +24,8 @@ const tiredDg = () => {
   }else{
     "it is a tv show"
   }
+
+dev
 }
 
 tiredDg();
