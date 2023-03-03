@@ -1,5 +1,0 @@
-hola mundo,
-
-estoy aprendiendo git, vamos a ver que pasa ahora.
-añadiendo mas cambios.
-me gusta esta opcion: git commit -a -m "mensaje"
