@@ -28,4 +28,18 @@ personas = [
     telefono: "7250104",
     profesion: "Abogado"
   },
+  {
+    nombres: "Javier Antonio",
+    apellidos: "Carbajal Rodriguez",
+    estatura: "177",
+    telefono: "7220104",
+    profesion: "Docente"
+  },
+  {
+    nombres: "Mario",
+    apellidos: "Cuebas Jaramillo",
+    estatura: "167",
+    telefono: "7320104",
+    profesion: "Quimico"
+  },
 ]
